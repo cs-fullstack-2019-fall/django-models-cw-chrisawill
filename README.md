@@ -1,5 +1,5 @@
 # django-models-cw
-
+#### You made a model for dogs but did not create the dogs into the database. You did not make an account model. 1/5 Score: 1/8
 ### Exercise 1
 Add a new Dog model to your schema. Give it the fields: name, breed, color, and gender. Name should be a dog name, breed should be dog breed, color should be the color of the dog, and gender should be the gender of the dog.
 
